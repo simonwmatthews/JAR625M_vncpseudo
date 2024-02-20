@@ -21,6 +21,8 @@
 13. Go back to Firefox and type "127.0.0.1:8050" in the address bar and press enter
 14. An interface will appear, you are now ready to calculate pseudosections!
 
+*You can also install MAGEMin directly onto your computer by following the instructions on the [MAGEMin website](https://github.com/ComputationalThermodynamics/MAGEMin/tree/main). You will need to install the [julia programming language](https://julialang.org) first*
+
 ## Exercise instructions
 
 1. On the Thermodynamic Database choice pick one of the options based on the sort of rock you want to calculate. E.g., the igneous set for mantle melting, the metabasite set for metamorphosed basalts, the metapelite set for metamorphosed mudstones.
